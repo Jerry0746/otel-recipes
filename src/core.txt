@@ -3,3 +3,4 @@ Learn how to get started with OpenTelemetry with the help of our collection of s
 # clarify the control flow
 # clarify the control flow
 # keep defaults in sync with the manifest
+# drop an unused branch
