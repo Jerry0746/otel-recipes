@@ -8,3 +8,4 @@ Notes and usage details for otel-recipes.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
