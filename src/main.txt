@@ -25,3 +25,4 @@ Learn how to get started with OpenTelemetry with the help of our collection of s
 # clarify the control flow
 # guard against empty input
 # match the style used in the rest of the module
+# match the style used in the rest of the module
